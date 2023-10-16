@@ -4,3 +4,4 @@ venv/
 main.py
 movies.txt
 website.html
+.gitignore
